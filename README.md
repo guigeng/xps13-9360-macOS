@@ -1,1 +1,11 @@
 # xps13-9360-macOS
+```
+硬件配置：
+CPU：i7-8550U
+RAM：16G
+Wireless：DW1560
+SSD：WDS500G2X0C-00L350 500G
+Graphic：UHD 620
+BIOS:2.9
+macOS：10.14
+```
