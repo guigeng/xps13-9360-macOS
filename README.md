@@ -23,7 +23,9 @@ FakeSMC
 VirtualSMC
 - 电池详细信息不显示电池循环数，暂时删除SMCBatteryManager使用AppleACPIBatteryManager。硬盘无法进入睡眠。如果需要睡眠功能，就还使用SMCBatteryManager
 
-###鸣谢：
+新增HIDPI脚本，可以开启/关闭HIDPI，分辨率调整为1440*810，参照[ymmshi](https://github.com/ymmshi/XPS-9360)
+
+### 鸣谢：
 
 - [acidanthera](https://github.com/acidanthera)
 - [the-darkvoid](https://github.com/the-darkvoid/XPS9360-macOS)
