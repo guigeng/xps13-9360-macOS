@@ -18,10 +18,10 @@ macOS：10.14
 
 分为两个版本：
 
--FakeSMC
+FakeSMC
 
--VirtualSMC
-电池详细信息不显示电池循环数，暂时删除SMCBatteryManager使用AppleACPIBatteryManager。
+VirtualSMC
+-电池详细信息不显示电池循环数，暂时删除SMCBatteryManager使用AppleACPIBatteryManager。
 
 鸣谢：
 -[acidanthera](https://github.com/acidanthera)
