@@ -21,7 +21,7 @@ macOS：10.14
 FakeSMC
 
 VirtualSMC
-- 电池详细信息不显示电池循环数，暂时删除SMCBatteryManager使用AppleACPIBatteryManager。
+- 电池详细信息不显示电池循环数，暂时删除SMCBatteryManager使用AppleACPIBatteryManager。硬盘无法进入睡眠。
 
 ###鸣谢：
 
