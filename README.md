@@ -23,9 +23,8 @@ FakeSMC
 VirtualSMC
 -电池详细信息不显示电池循环数，暂时删除SMCBatteryManager使用AppleACPIBatteryManager。
 
-鸣谢：
+###鸣谢：
+
 -[acidanthera](https://github.com/acidanthera)
-
 -[the-darkvoid](https://github.com/the-darkvoid/XPS9360-macOS)
-
 -[RehabMan](https://bitbucket.org/RehabMan)
