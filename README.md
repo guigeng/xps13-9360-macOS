@@ -9,6 +9,17 @@ Graphic：UHD 620
 BIOS:2.9
 macOS：10.14
 ```
+目前基本能想到的都可以使用。
+雷电口热插拔没试，因为没这个设备。
+使用小米45充电器可以Type-C充电
 
+分为两个版本：
+FakeSMC
+
+VirtualSMC
+电池详细信息不显示电池循环数，暂时删除SMCBatteryManager使用AppleACPIBatteryManager。
 
 鸣谢：
+[acidanthera](https://github.com/acidanthera)
+[the-darkvoid](https://github.com/the-darkvoid/XPS9360-macOS)
+[RehabMan](https://bitbucket.org/RehabMan)
